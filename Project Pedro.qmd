@@ -1,0 +1,19 @@
+---
+title: "Assignment Birnir"
+format: html
+editor: visual
+---
+
+```{r}
+
+```
+
+Chinese Projects in Brazil
+
+The states in blue show where there are more mega projects in operation . In the database, the states of Pará, Amapá and Goiás have the highest number of projects in operation.![](images/map_projects_state.png)
+
+```{r}
+
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
